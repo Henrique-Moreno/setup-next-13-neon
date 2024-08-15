@@ -4,7 +4,7 @@ Este é um projeto que visa demonstrar a criação de um aplicativo full-stack u
 
 <h3>Objetivo do Projeto</h3>
 
-O objetivo principal deste projeto é fornecer um guia passo a passo para a criação de um ambiente de desenvolvimento robusto para aplicações web full-stack. Ele abrange:
+O objetivo principal deste projeto é fornecer um guia passo a passo para a criação de um ambiente de desenvolvimento para aplicações web full-stack. Ele abrange:
 
 <ul>
 <li>Configuração do Next.js 13.</li>
